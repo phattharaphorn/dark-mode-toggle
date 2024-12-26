@@ -28,11 +28,9 @@ npm start
 
 4. Open the browser at http://localhost:3000.
   
-## How to Test the App:
+### How to Test the App:
 
-1. Run the app using `npm start`.
+1. Use the "Dark Mode" button to toggle between Light and Dark themes.
    
-2. Use the "Dark Mode" button to toggle between Light and Dark themes.
-   
-3. The app will remember your theme preference even after a page reload.
+2. The app will remember your theme preference even after a page reload.
 
